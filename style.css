@@ -1,0 +1,53 @@
+     /* *{
+        border: solid;
+    }  */
+  
+ .menu{
+    margin-left:1700px;
+      margin-bottom:100px; 
+      justify-content:space-between ;
+ } 
+.menu a{
+    position: relative
+}
+.header{
+    background-color:	#8f8a8a
+    
+}
+.all{
+    background-color:	#aaa78e
+    
+}
+h2 {
+    color: #191374
+}
+.grid{
+    background-color:	#aaa78e
+}
+ .game{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+}
+/* .game1{
+     border: solid; 
+}
+.game2{
+    border: solid;
+}
+.game3{
+    border: solid;
+}
+.game4{
+    border: solid;
+}
+.game5{
+    border: solid;
+} */
+.item{
+    color: #191374;
+    position: absolute;
+    top:15%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
